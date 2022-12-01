@@ -2,7 +2,6 @@
 
 Terminal-based Snake game
 
-![scrrenshot](http://i.imgur.com/pHf4fjt.gif)
 
 ## Play
 
