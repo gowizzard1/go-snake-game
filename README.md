@@ -22,6 +22,6 @@ $ docker run -ti snake-game
 ## Testing
 
 ```
-$ cd $GOPATH/src/github.com/techieIsaac/snake-game
+$ cd $GOPATH/src/github.com/techieIsaac/go-snake-game
 $ make
 ```
